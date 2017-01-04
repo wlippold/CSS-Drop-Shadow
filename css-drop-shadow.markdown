@@ -4,7 +4,7 @@ Steps to take
 
 1. Go to https://fonts.google.com/
 2. Select font by clicking + symbol
-3. Copy <style> ........ </style>
+3. Copy <code><style> ........ </style></code>
 4. Paste over sample <style> in index.html
 5. Edit Text to liking
 6. Edit style.css background color and drop shadow color. Take contrast into consideration.
