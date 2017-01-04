@@ -1,7 +1,11 @@
 CSS Drop Shadow
 ---------------
+Steps to take
 
-
-A [Pen](http://codepen.io/wlippold/pen/dNyLdg) by [Wayne Lippold](http://codepen.io/wlippold) on [CodePen](http://codepen.io/).
-
-[License](http://codepen.io/wlippold/pen/dNyLdg/license).
+1. Go to https://fonts.google.com/
+2. Select font by clicking + symbol
+3. Copy <style> ........ </style>
+4. Paste over sample <style> in index.html
+5. Edit Text to liking
+6. Edit style.css background color and drop shadow color. Take contrast into consideration.
+7. Email me completed website
